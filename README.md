@@ -1,5 +1,7 @@
 # quiz
 
+Repositorio del curso de platzi sobre VUE
+
 ## Project setup
 ```
 npm install
